@@ -10,3 +10,6 @@ Contract and Billing Patterns Subscription Duration Most customers are relativel
 Risk Indicator Types of Contracts With 2,200 clients, month-to-month contracts have the biggest volume, suggesting that a sizable percentage of the clientele is not committed to a long-term relationship.
 
 Billing without paper Paperless billing is used by 74.44% of clients, indicating a high level of digital adoption. The high churn rate in fiber optic services and the high percentage of short-term clients are two areas of concern that this report highlights, indicating the need for better customer retention tactics.
+<img width="588" alt="image" src="https://github.com/user-attachments/assets/828b5d9b-6d7f-4dd3-944d-231b65986edb" />
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/d7245517-1ade-48a4-a526-1842b98df5ca" />
+
